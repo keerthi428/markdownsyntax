@@ -41,3 +41,5 @@ print("hello")
 [markdown sheet](https://www.markdownguide.org/cheat-sheet/)
 - github link
 [github](https://git-scm.com/)
+### inserting video
+[![tom and jerry](https://www.youtube.com/vi/X7R-q9rsrtu/0.jpg)](https://www.youtube.com/watch?v=X7R-q9rsrtu)
