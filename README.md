@@ -34,6 +34,6 @@ __*ece*__
     + ece
     + giddalur
 ### code
-`python
+```python
 print("hello")
-`
+```
