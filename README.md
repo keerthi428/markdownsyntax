@@ -38,5 +38,5 @@ __*ece*__
 print("hello")
 ```
 ### inserting urls
-[makdown cheat sheet](https://github.com/keerthi428/markdownsyntax/edit/main/README.md)
+[markdown sheet](https://github.com/keerthi428/markdownsyntax/edit/main/README.md)
 
