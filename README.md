@@ -37,9 +37,6 @@ __*ece*__
 ```python
 print("hello")
 ```
-### task insert a code of hello in c
-#include <stdio.h>
-int main()
-{
-printf("hello, world!");
-}
+### inserting urls
+[cheat sheet](https://github.com/keerthi428/markdownsyntax/edit/main/README.md)
+
