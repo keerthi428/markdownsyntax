@@ -38,5 +38,6 @@ __*ece*__
 print("hello")
 ```
 ### inserting urls
-[markdown sheet](https://github.com/keerthi428/markdownsyntax/edit/main/README.md)
-
+[markdown sheet](https://www.markdownguide.org/cheat-sheet/)
+- github link
+[github](https://git-scm.com/)
