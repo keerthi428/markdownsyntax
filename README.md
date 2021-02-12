@@ -1,2 +1,4 @@
-# markdownsyntax
-day2 markdown syntax
+# Markdownsyntax
+## heading 2
+### heading 3
+###### heading 6
