@@ -21,8 +21,8 @@ __*ece*__
 ### ordered list
 1. keerthi
 2. ece 
-  1.ecea
-  2.eceb
-3.manju
-  1.ecea
-  2.eceb
+    1. ecea
+    2. eceb
+3. manju
+    1. ecea
+    2. eceb
